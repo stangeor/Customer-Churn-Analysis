@@ -1,6 +1,6 @@
 # Customer Churn Prediction and Revenue Impact Modeling
 
-Developed a machine learning model to predict customer churn for telecom, SaaS, and subscription-based businesses.
+Developed machine learning model to predict customer churn for telecom, SaaS, and subscription-based businesses.
 
 The project focused on delivering measurable business impact by optimizing constrained recall, improving campaign ROI, and building deployable, production-ready machine learning systems.
 
