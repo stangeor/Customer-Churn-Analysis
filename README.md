@@ -8,7 +8,7 @@ The project focused on delivering measurable business impact by optimizing const
 
 ## 1. Business Context
 
-Churn is usually recognized only after revenue erosion becomes measurable. At that point, recovery becomes significantly more expensive.
+Churn usually recognized only after revenue erosion becomes measurable. At that point, recovery becomes significantly more expensive.
 
 Retention is structurally cheaper than acquisition. However, many organizations still rely on broad, untargeted retention campaigns because predictive targeting capabilities are weak.
 
